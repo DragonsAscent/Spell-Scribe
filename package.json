@@ -2,7 +2,7 @@
   "name": "yaml-editor-ghpage",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://DragonsAscent.github.io/Spell-Scribe",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
